@@ -16,7 +16,7 @@
 
 @keyframes myScroll {
     10% {
-        top: 100%; 
+        top: 120%; 
     }
     120% {
         top: -100%;
